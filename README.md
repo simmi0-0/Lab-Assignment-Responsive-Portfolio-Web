@@ -39,10 +39,3 @@ The site is optimized for:
 - Mobile
 
 Responsive design is achieved using media queries and flexible layouts.
-
-## 🚀 How to Run Locally
-
-1. Open your code editor (e.g., Visual Studio Code).
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/portfolio-website.git
